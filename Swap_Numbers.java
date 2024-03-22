@@ -5,7 +5,6 @@ public class Swap_Numbers {
         int a = 10;
         int b =20;
         
-
         System.out.println("Before Swapping a = "+a);
         System.out.println("Before Swapping b ="+b);
 
